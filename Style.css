@@ -1,0 +1,51 @@
+.img1{
+width:450px;
+height:70px;
+margin-top: 0;
+display: flex;
+}
+body{margin: 0;
+padding: 0;
+background-image:url("/storage/emulated/0/Download/Image4.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+
+}
+.img2{
+display: block;   
+margin: 50px auto;
+border-radius: 50%;
+width: 150px;
+height: 140px;}
+
+.img3{
+width: 450px;    
+height: 200px;    
+    
+
+    
+}
+.login{
+margin: auto;
+margin-top: 30px;
+color: white;
+}
+.login td{
+padding: 20px; 
+color: blue;
+
+    
+}
+.input[type="number"]{
+width: 180px;
+padding: 10px;
+border-radius: 5px;
+border: 1px solid:blue;
+color: red;
+background-color: yellow;
+height: 50px;
+    
+}
+p{}
+</
